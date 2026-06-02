@@ -71,7 +71,9 @@ Abra http://localhost:3000 no navegador.
 
 ## Deploy
 
-URL de produção: _a preencher após Yuri conectar Vercel (Task 8 da Story 1.1)_
+- **Produção:** https://triador-ia.vercel.app
+- Deploy automático via Vercel em cada push para `main`
+- Repositório: https://github.com/Yuri-Gambogi/TriadorIA
 
 ---
 
